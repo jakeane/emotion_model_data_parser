@@ -1,0 +1,24 @@
+{
+  "positive": [
+    "grateful-trusting",
+    "faithful-confident",
+    "joyful-excited",
+    "proud-hopeful",
+    "caring-content"
+  ],
+  "negative": [
+    "angry-furious",
+    "jealous-ashamed",
+    "guilty-apprehensive",
+    "disappointed-disgusted",
+    "annoyed-devastated",
+    "embarrassed-anxious",
+    "sad-lonely",
+    "afraid-terrified"
+  ],
+  "ambiguous": [
+    "surprised-anticipating",
+    "nostalgic-impressed",
+    "sentimental-prepared"
+  ]
+}

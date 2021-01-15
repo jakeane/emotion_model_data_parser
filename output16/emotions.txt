@@ -1,0 +1,16 @@
+angry-furious
+grateful-trusting
+jealous-ashamed
+guilty-apprehensive
+disappointed-disgusted
+faithful-confident
+annoyed-devastated
+surprised-anticipating
+joyful-excited
+proud-hopeful
+embarrassed-anxious
+sad-lonely
+afraid-terrified
+caring-content
+nostalgic-impressed
+sentimental-prepared
